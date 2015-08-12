@@ -5,7 +5,7 @@
     <link rel='stylesheet' href='<%= org.webjars.AssetLocator.getWebJarPath("css/bootstrap.min.css") %>'>
     <script type='text/javascript' src='<%= org.webjars.AssetLocator.getWebJarPath("jquery.min.js") %>'></script>
     <script type='text/javascript' src='<%= org.webjars.AssetLocator.getWebJarPath("js/bootstrap.min.js") %>'></script>
-    <script type='text/javascript' src='<%= org.webjars.AssetLocator.getWebJarPath("log4javascript-uncompressed.js") %>'></script>
+    <script type='text/javascript' src='<%= org.webjars.AssetLocator.getWebJarPath("js/log4javascript.js") %>'></script>
     <style type="text/css">
         body {
             margin-top: 50px;
